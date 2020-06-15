@@ -1,4 +1,4 @@
 
 def catch_phrase
-  puts status
+  puts phrase
 end
